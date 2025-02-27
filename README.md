@@ -43,7 +43,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/a951e69bb2b7a53b529092fff037019933ea7fb8/Image/logo/JohnRipper.png" alt="John the Ripper" width="80" height="50"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/9812d425729d594297f8990c91123ac247da0903/Image/logo/HashCat.png" alt="Hashcat" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/5a8b2d1cfe486263fc9141f5078234a60b61625e/Image/logo/HashCat.png" alt="Hashcat" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2d35cd722953d7f59873b08d4e36bf6dc7ba8d19/Image/logo/Nikto.png" alt="Nikto" width="80" height="60"/>
       
