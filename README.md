@@ -40,7 +40,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://img.shields.io/badge/Nikto-007ACC?style=for-the-badge&logo=nikto&color=000000" alt="Nikto" width="80" height="50"/>
       
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/0ed079f1c704b52784312f990617bfa6695362a3/Image/Icons/Python.png" alt="Python" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" width="80" height="50"/>
 
