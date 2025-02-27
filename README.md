@@ -82,4 +82,6 @@ Cyber Security Intern @ Infocom
 <a href="https://linkedin.com/in/imohammedswalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imohammedswalih" height="30" width="40" /></a>
 <a href="https://twitter.com/imohammedswalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imohammedswalih" height="30" width="40" /></a>
 </p>
+<br>
+
 **Disclaimer**: All activities on this GitHub are purely for educational purposes. Any penetration testing or vulnerability assessments conducted should be done legally and with permission from the target system owner.
