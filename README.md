@@ -32,7 +32,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge&logo=nessus&color=000000" alt="Nessus" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/957d12301ac19bcc0cd64e2bc9ce97a968be203c/Image/Icons/Nessus.png" alt="Nessus" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/John_the_Ripper-007ACC?style=for-the-badge&logo=john-the-ripper&color=000000" alt="John the Ripper" width="80" height="50"/>
 
