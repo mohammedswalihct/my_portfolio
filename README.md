@@ -56,7 +56,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/a438704fab9bb74bb3fc4a4ee504eb38a8f80a59/Image/Icons/Ubuntu_1.png" alt="Ubuntu" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2c3bec6b356877c60293b2a8fd66685ef3dd68f9/Image/Icons/Kali%20Linux.png" alt="Kali Linux" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" width="80" height="50"/>
 </div>
