@@ -50,6 +50,8 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/C.png" alt="C" width="80" height="50"/>
 
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/SQL_2.png" alt="C" width="80" height="50"/>
+
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/Icons/HTML5.png" alt="HTML5" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b014362850d1092f482a23f1a171c644756f1f4/Image/Icons/CSS3.png" alt="CSS3" width="60" height="50"/>
