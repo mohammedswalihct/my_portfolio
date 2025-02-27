@@ -16,8 +16,8 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 - High School Education | Rahmath Public School (_March 2015_)
 
 ## Work Experience
--  Cyber Security Analyst @ FX Solutions
--  Cyber Security Intern @ Infocom
+-  Cyber Security Analyst @ **FX Solutions**
+-  Cyber Security Intern @ **Infocom**
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 <br>
