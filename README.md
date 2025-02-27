@@ -1,6 +1,6 @@
-# Ethical Hacker - [Your Name/Username]
+# Ethical Hacker
 
-Welcome to my GitHub repository! I'm an ethical hacker dedicated to identifying and fixing security vulnerabilities to help make the internet a safer place. This is where I share my projects, tools, and research on cybersecurity, penetration testing, vulnerability assessments, and more. Feel free to explore and collaborate.
+Welcome to my GitHub repository! I'm an Ethical Hacker dedicated to identifying and fixing security vulnerabilities to help make the internet a safer place. This is where I share my projects, tools, and research on cybersecurity, penetration testing, vulnerability assessments, and more. Feel free to explore and collaborate.
 
 ## 🔐 About Me
 
