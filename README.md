@@ -48,7 +48,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/Icons/HTML5.png" alt="HTML5" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" width="80" height="50"/>
 
