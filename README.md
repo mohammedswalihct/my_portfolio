@@ -1,6 +1,8 @@
-# 🛡️ Mohammed Swalih - Cybersecurity Analyst
-# Hi👋, I'm Mohammed Swalih
-Welcome to my GitHub repository! I'm a Cybersecurity Analyst passionate about protecting digital infrastructures from evolving cyber threats. My expertise lies in identifying vulnerabilities, analyzing security incidents, and implementing solutions to strengthen the security posture of organizations.
+# Cybersecurity Analyst
+
+## About Me
+
+**Hello! 👋 I'm Mohammed Swalih**, a Cybersecurity Analyst passionate about protecting digital infrastructures from evolving cyber threats. My expertise lies in identifying vulnerabilities, analyzing security incidents, and implementing solutions to strengthen the security posture of organizations.
 
 I specialize in threat analysis, incident response, security monitoring, and risk management. I'm always keen to learn new techniques and contribute to the cybersecurity community by sharing knowledge and collaborating on open-source security projects.
 
@@ -86,7 +88,7 @@ Here's an example of a GitHub README file tailored for a **Cybersecurity Analyst
 
 ---
 
-
+# 🛡️ [Your Name] - Cybersecurity Analyst
 
 ## About Me
 
@@ -94,7 +96,27 @@ Hello! 👋 I'm [Your Name], a Cybersecurity Analyst passionate about protecting
 
 I specialize in threat analysis, incident response, security monitoring, and risk management. I'm always keen to learn new techniques and contribute to the cybersecurity community by sharing knowledge and collaborating on open-source security projects.
 
+## 🛠️ Skills & Expertise
 
+- **Threat Analysis & Detection:** Identifying and responding to potential security incidents
+- **Incident Response & Management:** Handling security breaches and minimizing damage
+- **Vulnerability Management:** Scanning, analyzing, and mitigating vulnerabilities
+- **Security Monitoring:** Implementing SIEM tools (e.g., Splunk, ELK) to monitor for threats
+- **Network Security:** Configuring and securing firewalls, VPNs, and IDS/IPS
+- **Risk Management:** Assessing and mitigating cybersecurity risks for systems and networks
+- **Penetration Testing & Vulnerability Assessments**
+- **Security Audits & Compliance:** Reviewing system and application security for industry standards (e.g., ISO 27001, NIST, GDPR)
+- **Automation & Scripting:** Writing scripts in Python, PowerShell, and Bash for automating security tasks
+
+## 🧰 Tools & Technologies
+
+- **SIEM Tools:** Splunk, ELK Stack, IBM QRadar
+- **Vulnerability Scanners:** Nessus, OpenVAS, Qualys
+- **Firewalls & IDS/IPS:** pfSense, Suricata, Snort
+- **Networking & Protocols:** TCP/IP, DNS, HTTP(S), SSL/TLS, VPN, Proxy Servers
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows, macOS
+- **Scripting Languages:** Python, PowerShell, Bash, Groovy
+- **Security Frameworks & Standards:** NIST, CIS, ISO 27001, GDPR
 
 ## 🚨 Projects & Contributions
 
