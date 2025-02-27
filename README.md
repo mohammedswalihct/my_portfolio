@@ -1,3 +1,11 @@
+# Ethical Hacker - [Your Name/Username]
+
+Welcome to my GitHub repository! I'm an ethical hacker dedicated to identifying and fixing security vulnerabilities to help make the internet a safer place. This is where I share my projects, tools, and research on cybersecurity, penetration testing, vulnerability assessments, and more. Feel free to explore and collaborate.
+
+## 🔐 About Me
+
+I'm passionate about finding security loopholes, protecting systems, and improving cybersecurity practices. As an ethical hacker, my primary goal is to improve security by uncovering vulnerabilities in a responsible manner, reporting them, and helping organizations strengthen their defenses.
+
 <h2 align="left">Hi 👋, I'm Leonardo Da Vinci</h2>
 <h3 align="left">An ______________ and ______________________ with expertise in Vulnerability Assessment and Pentesting.</h3>
 <br>
@@ -74,3 +82,4 @@ Demo Project_3
 <a href="https://linkedin.com/in/imohammedswalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imohammedswalih" height="30" width="40" /></a>
 <a href="https://twitter.com/imohammedswalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imohammedswalih" height="30" width="40" /></a>
 </p>
+**Disclaimer**: All activities on this GitHub are purely for educational purposes. Any penetration testing or vulnerability assessments conducted should be done legally and with permission from the target system owner.
