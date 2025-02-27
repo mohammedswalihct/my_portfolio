@@ -28,7 +28,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/88bec14e3dc7406500b72aa3c1c1bd8f322dc319/Image/Icons/Metasploit.png" alt="Metasploit" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/0f6190d56396df84f623310fd4d23341150563a2/Image/Icons/WireShark.png" alt="Wireshark" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/fcf4f540ff9f351fb3dab9be3f1188cd9a54bf49/Image/Icons/BurpSuite.png" alt="Burp Suite" width="80" height="50"/>
 
