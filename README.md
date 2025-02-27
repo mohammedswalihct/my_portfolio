@@ -50,7 +50,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/Icons/HTML5.png" alt="HTML5" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b014362850d1092f482a23f1a171c644756f1f4/Image/Icons/CSS3.png" alt="CSS3" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/a438704fab9bb74bb3fc4a4ee504eb38a8f80a59/Image/Icons/Ubuntu_1.png" alt="Ubuntu" width="80" height="50"/>
 
