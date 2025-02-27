@@ -84,4 +84,4 @@ Cyber Security Intern @ Infocom
 </p>
 <br>
 
-**Disclaimer** : All activities on this GitHub are purely for educational purposes. Any penetration testing or vulnerability assessments conducted should be done legally and with permission from the target system owner.
+**Disclaimer :** All activities on this GitHub are purely for educational purposes. Any penetration testing or vulnerability assessments conducted should be done legally and with permission from the target system owner.
