@@ -1,16 +1,12 @@
 # Cybersecurity Analyst
 
+<img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" />
+
 ## About Me
 
 **Hello! 👋 I'm Mohammed Swalih**, a Cybersecurity Analyst passionate about protecting digital infrastructures from evolving cyber threats. My expertise lies in identifying vulnerabilities, analyzing security incidents, and implementing solutions to strengthen the security posture of organizations.
 
 I specialize in threat analysis, incident response, security monitoring, and risk management. I'm always keen to learn new techniques and contribute to the cybersecurity community by sharing knowledge and collaborating on open-source security projects.
-
-<img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" />
-
-## 🔐 About Me
-
-I'm passionate about finding security loopholes, protecting systems, and improving cybersecurity practices. As an ethical hacker, my primary goal is to improve security by uncovering vulnerabilities in a responsible manner, reporting them, and helping organizations strengthen their defenses.
 
 - 📫 How to reach me **mohammedswalihct@gmail.com**
 
