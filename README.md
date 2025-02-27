@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **______________**
 
-- 💬 Ask me about **Vulnerabilities and Pentesting**
+- 💬 Ask me about **______________________________**
 
 - 📫 How to reach me **mohammedswalihct@gmail.com**
 
