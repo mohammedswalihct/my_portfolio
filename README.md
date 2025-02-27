@@ -21,6 +21,7 @@ Cyber Security Intern @ Infocom
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      
 <img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/NMap.png" alt="NMap" width="80" height="60" />
 
 <img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/12cdf0834d06a631e9a1118076aade30d0ffd6fa/Image/logo/Metasploit.png" alt="Metasploit" width="80" height="60"/>
@@ -39,25 +40,26 @@ Cyber Security Intern @ Infocom
       
 <img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/fc594c7ffd497308406d66280138b3a65f4d7ec8/Image/logo/Python.png" alt="Python" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/logo/C.png" alt="C" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/C.png" alt="C" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/logo/HTML5.png" alt="HTML5" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/HTML5.png" alt="HTML5" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b014362850d1092f482a23f1a171c644756f1f4/Image/logo/CSS3.png" alt="CSS3" width="60" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/CSS3.png" alt="CSS3" width="60" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/4218c0f79e84f676ac02c97dce664f87d1671498/Image/logo/Linux.png" alt="Linux" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Linux.png" alt="Linux" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/a438704fab9bb74bb3fc4a4ee504eb38a8f80a59/Image/logo/Ubuntu_1.png" alt="Ubuntu" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Ubuntu.png" alt="Ubuntu" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2c3bec6b356877c60293b2a8fd66685ef3dd68f9/Image/logo/Kali%20Linux.png" alt="Kali Linux" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/KaliLinux.png" alt="Kali Linux" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/logo/Git.png" alt="Git" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Git.png" alt="Git" width="80" height="50"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/logo/GitHub.png" alt="Github" width="80" height="70"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/GitHub.png" alt="Github" width="80" height="70"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/logo/SQL_2.png" alt="SQL" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b91b0b0b51a3d629ba118933ee4569c32b0173f/Image/logo/VS%20Code.png" alt="VS Code" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/VSCode.png" alt="VS Code" width="80" height="60"/>
+
 </div>
 </div>
 
