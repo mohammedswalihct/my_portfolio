@@ -1,21 +1,11 @@
-# Ethical Hacker
-
+# Hi👋, I'm Mohammed Swalih
 Welcome to my GitHub repository! I'm an Ethical Hacker dedicated to identifying and fixing security vulnerabilities to help make the internet a safer place. This is where I share my projects, tools, and research on cybersecurity, penetration testing, vulnerability assessments, and more. Feel free to explore and collaborate.
+
+<img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" />
 
 ## 🔐 About Me
 
 I'm passionate about finding security loopholes, protecting systems, and improving cybersecurity practices. As an ethical hacker, my primary goal is to improve security by uncovering vulnerabilities in a responsible manner, reporting them, and helping organizations strengthen their defenses.
-
-<h2 align="left">Hi 👋, I'm Leonardo Da Vinci</h2>
-<h3 align="left">An ______________ and ______________________ with expertise in Vulnerability Assessment and Pentesting.</h3>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" /> </p>
-
-- 🔭 I’m currently working at **Grand Motors**
-
-- 🌱 I’m currently learning **______________**
-
-- 💬 Ask me about **______________________________**
 
 - 📫 How to reach me **mohammedswalihct@gmail.com**
 
