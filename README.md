@@ -73,9 +73,9 @@ Cyber Security Intern @ Infocom
 
 
 ## Projects
-Demo Project_1
-Demo Project_2
-Demo Project_3
+-Demo Project_1
+-Demo Project_2
+-Demo Project_3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
