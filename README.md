@@ -44,7 +44,9 @@ Cyber Security Intern @ Infocom
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/Git.png" alt="Git" width="80" height="50"/>
+
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/GitHub.png" alt="Github" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/C.png" alt="C" width="80" height="50"/>
 
