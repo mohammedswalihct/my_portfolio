@@ -52,7 +52,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/a438704fab9bb74bb3fc4a4ee504eb38a8f80a59/Image/Icons/Ubuntu_1.png" alt="Ubuntu" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" width="80" height="50"/>
 
