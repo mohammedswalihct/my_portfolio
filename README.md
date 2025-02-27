@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm MOHAMMED SWALIH</h2>
+<h2 align="left">Hi 👋, I'm Leonardo Da Vinci</h2>
 <h3 align="left">An ______________ and ______________________ with expertise in Vulnerability Assessment and Pentesting.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" /> </p>
@@ -24,7 +24,7 @@ Cyber Security Intern @ Infocom
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![image alt](https://github.com/mohammedswalihct/my_portfolio/blob/f6610a38921ad93cac211f8b14d0a39d57ac17a2/Image/Icons/NMap.png)
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/f6610a38921ad93cac211f8b14d0a39d57ac17a2/Image/Icons/NMap.png" alt="NMap" width="80" height="50" />
       
 <img src="https://img.shields.io/badge/NMap-007ACC?style=for-the-badge&logo=nmap&color=000000" alt="NMap" width="80" height="50"/>
 
