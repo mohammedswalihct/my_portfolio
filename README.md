@@ -17,16 +17,9 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 
 ## 💼 Skills & Expertise
 
-- **Penetration Testing:** Web application, network, and infrastructure penetration testing
-- **Vulnerability Assessment:** Scanning and identifying potential security risks
 - **Exploit Development:** Writing proof-of-concept (PoC) exploits for security vulnerabilities
-- **Security Audits:** Comprehensive security audits and code reviews
 - **Bug Bounty Hunting:** Identifying and reporting vulnerabilities in live systems responsibly
-- **Cryptography:** Encryption algorithms, protocols, and secure key management
 - **Penetration Testing:** Web application, network, and infrastructure assessments
-- **Vulnerability Assessment:** Identifying and fixing security flaws in systems
-- **Exploit Development:** Creating proof-of-concept exploits to demonstrate vulnerabilities
-- **Bug Bounty Hunting:** Responsible vulnerability disclosure in live systems
 - **Security Audits:** Comprehensive security reviews of code, infrastructure, and practices
 - **Threat Modeling & Risk Analysis**
 - **Cryptography:** Strong understanding of encryption, hashing, and secure protocols
@@ -41,7 +34,6 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 - **Security Audits & Compliance:** Reviewing system and application security for industry standards (e.g., ISO 27001, NIST, GDPR)
 - **Automation & Scripting:** Writing scripts in Python, PowerShell, and Bash for automating security tasks
 - **Threat Detection & Incident Response:** Identifying threats and responding to security incidents.
-- **Vulnerability Management:** Scanning, evaluating, and remediating security vulnerabilities.
 - **Risk Assessment & Mitigation:** Evaluating and minimizing security risks to assets and data.
 - **Security Monitoring:** Monitoring systems and networks using SIEM tools to detect intrusions.
 - **Security Audits & Compliance:** Reviewing security protocols and ensuring compliance with frameworks like NIST, GDPR, and ISO 27001.
@@ -52,33 +44,19 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 
 ## 🛠️ Tools & Technologies
 
-- **Kali Linux** for penetration testing and ethical hacking tools
-- **Burp Suite**, **OWASP ZAP** for web application security testing
-- **Metasploit** for exploit development
-- **Nmap** for network scanning
-- **Wireshark** for packet analysis
-- **Wi-Fi Hacking Tools** like Aircrack-ng
 - **Penetration Testing Frameworks:** Kali Linux, Metasploit, Burp Suite, OWASP ZAP
-- **Network Tools:** Nmap, Wireshark, Netcat
+- **Network Security Tools:** Nmap, Wireshark, Netcat
 - **Web Application Security:** SQLMap, Nikto, Gobuster, Hydra
-- **Programming & Scripting Languages:** Python, Bash, JavaScript, PHP, Ruby
-- **Operating Systems:** Linux (Ubuntu, Kali), Windows, macOS
-- **Version Control:** Git, GitHub
-- **SIEM Tools:** Splunk, ELK Stack, IBM QRadar
 - **Vulnerability Scanners:** Nessus, OpenVAS, Qualys
-- **Firewalls & IDS/IPS:** pfSense, Suricata, Snort
 - **Networking & Protocols:** TCP/IP, DNS, HTTP(S), SSL/TLS, VPN, Proxy Servers
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows, macOS
-- **Scripting Languages:** Python, PowerShell, Bash, Groovy
 - **Security Frameworks & Standards:** NIST, CIS, ISO 27001, GDPR
 - **SIEM Tools:** Splunk, IBM QRadar, ELK Stack
-- **Vulnerability Scanners:** Nessus, OpenVAS, Qualys
 - **IDS/IPS Tools:** Snort, Suricata, Zeek
-- **Network Security Tools:** Nmap, Wireshark, Netcat
-- **Firewalls & VPNs:** pfSense, Cisco ASA, OpenVPN
-- **Penetration Testing Tools:** Metasploit, Burp Suite, Nikto
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows, macOS
 - **Scripting Languages:** Python, PowerShell, Bash
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows, macOS
+- **Version Control:** Git, GitHub
+- **Firewalls & VPNs:** pfSense, Cisco ASA, OpenVPN
+- **SIEM Tools:** Splunk, ELK Stack, IBM QRadar
 
 ## Projects
 - Demo Project_1
